@@ -1,0 +1,33 @@
+RESUMEN DE GIT
+git es un sistema de control de versiones que ayuda a tener mas facilidad al programador al momento de modificar el codigo de su aplicacion o programa ya que enlista todoslos cambios y se puede trabajar con multiples desarrolladores del mundo y poder seguir contribuyendo al tener el mismo codigo.
+Git es un sistema de control distribuido se puede trabajar en un repositorio de codigo y varios desarroladores podrian alaterar ese codigo pero tambien asi mismo todos los dearolladores tienen copia de ese codigo y tener el regristo de todos los cambios sin importar con que verion se este trabajando,gitpuede trabajar con repositorios locales y remotos,especificamente git te instalauna especie determinal un bash que viene siendo como una consola pero con mejores funcionalidades.
+Git es una herramienta que interactua directamente con el sistema operativo, en git hay tres estados:
+1.working directory
+2.staging area
+3. repository 
+
+
+
+responda las siguientes preguntas:
+
+ 1.¿Qué es GIT?
+es un sistema de control de versiones y ayuda a muchos programadores de todo el mundo a poder trabajar en un mismo codigo.
+
+ 2.¿Cuáles son los comandos más importantes y para que sirven?
+git init:para decir al sistema que se creara un proyecto nuevo
+git add: es para pasar los archivos del working directory al sraging area
+git status:para ver en que estado estan los archivos 
+git commit: patra pasar del sraging area al repository 
+git push: para subirlo a un reposiutorio remoto 
+git pull:en caso de estar trabajando con multiples desarrolladores y traer los cambios que han hecho todos 
+git clone: hace una copia desde el servidor central donde esta el codigo a tu computadora para empezar a trabajar
+
+3. ¿Cuál es la diferencia entre Git y Github?
+Dado que están tan estrechamente relacionados, tendría sentido que git y GitHub fueran propiedad de la misma empresa. Por el contrario, git es un software de código abierto, mientras que GitHub es propiedad de Microsoft.
+
+4.  Enumere los comandos para subir cambios a un repositorio
+ git push y git pull
+
+5. ¿Qué es una branch  ?
+El comando git branch es en realidad una especie de herramienta de gestión de ramas. Puede listar las ramas que tienes, crear una nueva rama, eliminar ramas y cambiar el nombre de las ramas.
+
