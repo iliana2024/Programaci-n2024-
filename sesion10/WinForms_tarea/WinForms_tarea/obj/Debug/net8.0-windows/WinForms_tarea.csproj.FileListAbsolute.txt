@@ -1,0 +1,16 @@
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\bin\Debug\net8.0-windows\WinForms_tarea.exe
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\bin\Debug\net8.0-windows\WinForms_tarea.deps.json
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\bin\Debug\net8.0-windows\WinForms_tarea.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\bin\Debug\net8.0-windows\WinForms_tarea.dll
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\bin\Debug\net8.0-windows\WinForms_tarea.pdb
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.Form1.resources
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.csproj.GenerateResource.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.dll
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\refint\WinForms_tarea.dll
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.pdb
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\WinForms_tarea.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\WinForms_tarea\WinForms_tarea\obj\Debug\net8.0-windows\ref\WinForms_tarea.dll

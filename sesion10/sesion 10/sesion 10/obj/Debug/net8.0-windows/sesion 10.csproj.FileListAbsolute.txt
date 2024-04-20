@@ -1,0 +1,24 @@
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\bin\Debug\net8.0-windows\sesion 10.exe
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\bin\Debug\net8.0-windows\sesion 10.deps.json
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\bin\Debug\net8.0-windows\sesion 10.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\bin\Debug\net8.0-windows\sesion 10.dll
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\bin\Debug\net8.0-windows\sesion 10.pdb
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\BindingWindow.g.cs
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\GridWindow.g.cs
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10_MarkupCompile.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10_MarkupCompile.lref
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\BindingWindow.baml
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\GridWindow.baml
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.g.resources
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.dll
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\refint\sesion 10.dll
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.pdb
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\sesion 10.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\sesion10\sesion 10\sesion 10\obj\Debug\net8.0-windows\ref\sesion 10.dll
